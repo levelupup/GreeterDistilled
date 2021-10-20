@@ -11,5 +11,5 @@ category_b = st.selectbox('Select minor classification',df['Category_B'].unique(
 df = df[df['Category_A'].eq(category_a) & df['Category_B'].eq(category_b)]
 
 fig, ax = plt.subplots()
-ax = sns.lineplot(data=df,x='Date',y='Category_B')
+ax = sns.lineplot(data=df,x='Date',y='value')
 st.pyplot(fig)
