@@ -13,4 +13,5 @@ df = df[df['Category_A'].eq(category_a) & df['Category_B'].eq(category_b)]
 
 fig, ax = plt.subplots()
 ax = sns.lineplot(data=df,x='Date',y='value')
+plt.xticks(rotation='vertical')
 st.pyplot(fig)
