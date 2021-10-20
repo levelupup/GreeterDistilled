@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-st.set_page_config(layoout='wide')
+st.set_page_config(layout='wide')
 df = pd.read_csv('india_telecom_performance_indicators.csv')
 category_a = st.selectbox('Select major classification',df['Category_A'].unique())
 category_b = st.selectbox('Select minor classification',df['Category_B'].unique())
