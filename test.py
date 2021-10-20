@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 df = pd.read_csv('india_telecom_performance_indicators.csv')
 category_a = st.selectbox('Select major classification',df['Category_A'].unique())
