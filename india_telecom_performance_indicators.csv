@@ -1,0 +1,780 @@
+Category_A,Category_B,Date,value
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2021/3/31,1201.2
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2021/3/31,663.77
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2021/3/31,537.42
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2021/3/31,89.05
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2021/3/31,10.95
+Telecom Subscribers (Wireless +Wireline),Teledensity,2021/3/31,88.17
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2021/3/31,141.03
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2021/3/31,60.27
+Wireless Subscribers,total wireless subscribers (mln),2021/3/31,1180.96
+Wireless Subscribers,Urban Subscribers (mln),2021/3/31,645.2
+Wireless Subscribers,Rural Subscribers (mon),2021/3/31,535.75
+Wireless Subscribers,Market share of private operators %,2021/3/31,89.68
+Wireless Subscribers,market share of PSU operators,2021/3/31,10.32
+Wireless Subscribers,Teledensity,2021/3/31,86.68
+Wireless Subscribers,urban teledensity ,2021/3/31,137.08
+Wireless Subscribers,rural teledensity,2021/3/31,60.08
+Wireline Subscribers,total wireless data usage (tb),2021/3/31,27799000.0
+Wireline Subscribers,total wireline subscribers (mln),2021/3/31,20.24
+Wireline Subscribers,Urban Subscribers (mln),2021/3/31,18.57
+Wireline Subscribers,Rural Subscribers (mln),2021/3/31,1.67
+Wireline Subscribers,Market share of private operators %,2021/3/31,47.2
+Wireline Subscribers,market share of PSU operators,2021/3/31,52.8
+Wireline Subscribers,Teledensity,2021/3/31,1.49
+Wireline Subscribers,urban teledensity ,2021/3/31,3.95
+Wireline Subscribers,rural teledensity,2021/3/31,1.49
+Telecom Financial Data,Gross Revenue (crore),2021/3/31,66784.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2021/3/31,48587.0
+Telecom Financial Data,Monthly ARPU (rupees),2021/3/31,103.58
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2021/3/31,825.3
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2021/3/31,47.21
+Internet/Broadband Subscribers,Broadband subscribers (mln),2021/3/31,778.09
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2021/3/31,25.99
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2021/3/31,799.3
+Internet/Broadband Subscribers,urban internet subscribers (mln),2021/3/31,502.53
+Internet/Broadband Subscribers,rural internet subscribers (mln),2021/3/31,322.77
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2021/3/31,60.73
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2021/3/31,107.3
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2021/3/31,36.24
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2021/3/31,103.58
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2021/3/31,818.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2021/3/31,12.33
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2020/12/31,1173.83
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2020/12/31,647.91
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2020/12/31,525.92
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2020/12/31,88.74
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2020/12/31,11.26
+Telecom Subscribers (Wireless +Wireline),Teledensity,2020/12/31,86.38
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2020/12/31,138.34
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2020/12/31,59.05
+Wireless Subscribers,total wireless subscribers (mln),2020/12/31,1153.77
+Wireless Subscribers,Urban Subscribers (mln),2020/12/31,629.67
+Wireless Subscribers,Rural Subscribers (mon),2020/12/31,542.11
+Wireless Subscribers,Market share of private operators %,2020/12/31,89.42
+Wireless Subscribers,market share of PSU operators,2020/12/31,10.58
+Wireless Subscribers,Teledensity,2020/12/31,84.9
+Wireless Subscribers,urban teledensity ,2020/12/31,134.44
+Wireless Subscribers,rural teledensity,2020/12/31,58.85
+Wireline Subscribers,total wireless data usage (tb),2020/12/31,26405000.0
+Wireline Subscribers,total wireline subscribers (mln),2020/12/31,20.05
+Wireline Subscribers,Urban Subscribers (mln),2020/12/31,18.24
+Wireline Subscribers,Rural Subscribers (mln),2020/12/31,1.81
+Wireline Subscribers,Market share of private operators %,2020/12/31,50.51
+Wireline Subscribers,market share of PSU operators,2020/12/31,49.49
+Wireline Subscribers,Teledensity,2020/12/31,1.48
+Wireline Subscribers,urban teledensity ,2020/12/31,3.89
+Wireline Subscribers,rural teledensity,2020/12/31,0.2
+Telecom Financial Data,Gross Revenue (crore),2020/12/31,71588.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2020/12/31,47623.0
+Telecom Financial Data,Monthly ARPU (rupees),2020/12/31,108.78
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2020/12/31,795.18
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2020/12/31,47.77
+Internet/Broadband Subscribers,Broadband subscribers (mln),2020/12/31,747.41
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2020/12/31,25.52
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2020/12/31,769.64
+Internet/Broadband Subscribers,urban internet subscribers (mln),2020/12/31,487.01
+Internet/Broadband Subscribers,rural internet subscribers (mln),2020/12/31,308.17
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2020/12/31,58.51
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2020/12/31,103.98
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2020/12/31,34.6
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2020/12/31,101.65
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2020/12/31,
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2020/12/31,12.13
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2020/9/30,1168.66
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2020/9/30,644.26
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2020/9/30,524.39
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2020/9/30,88.61
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2020/9/30,11.39
+Telecom Subscribers (Wireless +Wireline),Teledensity,2020/9/30,86.22
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2020/9/30,138.25
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2020/9/30,58.96
+Wireless Subscribers,total wireless subscribers (mln),2020/9/30,1148.58
+Wireless Subscribers,Urban Subscribers (mln),2020/9/30,626.16
+Wireless Subscribers,Rural Subscribers (mon),2020/9/30,522.42
+Wireless Subscribers,Market share of private operators %,2020/9/30,89.35
+Wireless Subscribers,market share of PSU operators,2020/9/30,10.65
+Wireless Subscribers,Teledensity,2020/9/30,84.74
+Wireless Subscribers,urban teledensity ,2020/9/30,134.37
+Wireless Subscribers,rural teledensity,2020/9/30,58.74
+Wireline Subscribers,total wireless data usage (tb),2020/9/30,25227000.0
+Wireline Subscribers,total wireline subscribers (mln),2020/9/30,20.08
+Wireline Subscribers,Urban Subscribers (mln),2020/9/30,18.1
+Wireline Subscribers,Rural Subscribers (mln),2020/9/30,1.98
+Wireline Subscribers,Market share of private operators %,2020/9/30,53.65
+Wireline Subscribers,market share of PSU operators,2020/9/30,46.35
+Wireline Subscribers,Teledensity,2020/9/30,1.48
+Wireline Subscribers,urban teledensity ,2020/9/30,3.88
+Wireline Subscribers,rural teledensity,2020/9/30,0.22
+Telecom Financial Data,Gross Revenue (crore),2020/9/30,68228.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2020/9/30,45707.0
+Telecom Financial Data,Monthly ARPU (rupees),2020/9/30,103.87
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2020/9/30,776.45
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2020/9/30,50.14
+Internet/Broadband Subscribers,Broadband subscribers (mln),2020/9/30,726.32
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2020/9/30,24.36
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2020/9/30,752.09
+Internet/Broadband Subscribers,urban internet subscribers (mln),2020/9/30,474.11
+Internet/Broadband Subscribers,rural internet subscribers (mln),2020/9/30,302.35
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2020/9/30,57.29
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2020/9/30,101.74
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2020/9/30,33.99
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2020/9/30,96.87
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2020/9/30,761.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2020/9/30,11.96
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2020/6/30,1160.52
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2020/6/30,636.83
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2020/6/30,523.69
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2020/6/30,88.55
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2020/6/30,11.45
+Telecom Subscribers (Wireless +Wireline),Teledensity,2020/6/30,88.85
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2020/6/30,137.35
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2020/6/30,58.96
+Wireless Subscribers,total wireless subscribers (mln),2020/6/30,1140.71
+Wireless Subscribers,Urban Subscribers (mln),2020/6/30,619.11
+Wireless Subscribers,Rural Subscribers (mon),2020/6/30,521.6
+Wireless Subscribers,Market share of private operators %,2020/6/30,89.33
+Wireless Subscribers,market share of PSU operators,2020/6/30,10.67
+Wireless Subscribers,Teledensity,2020/6/30,84.38
+Wireless Subscribers,urban teledensity ,2020/6/30,133.53
+Wireless Subscribers,rural teledensity,2020/6/30,58.72
+Wireline Subscribers,total wireless data usage (tb),2020/6/30,25979000.0
+Wireline Subscribers,total wireline subscribers (mln),2020/6/30,19.81
+Wireline Subscribers,Urban Subscribers (mln),2020/6/30,17.72
+Wireline Subscribers,Rural Subscribers (mln),2020/6/30,2.09
+Wireline Subscribers,Market share of private operators %,2020/6/30,56.84
+Wireline Subscribers,market share of PSU operators,2020/6/30,43.16
+Wireline Subscribers,Teledensity,2020/6/30,1.47
+Wireline Subscribers,urban teledensity ,2020/6/30,3.82
+Wireline Subscribers,rural teledensity,2020/6/30,0.24
+Telecom Financial Data,Gross Revenue (crore),2020/6/30,66858.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2020/6/30,44128.0
+Telecom Financial Data,Monthly ARPU (rupees),2020/6/30,98.01
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2020/6/30,749.07
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2020/6/30,50.84
+Internet/Broadband Subscribers,Broadband subscribers (mln),2020/6/30,698.23
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2020/6/30,23.05
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2020/6/30,726.01
+Internet/Broadband Subscribers,urban internet subscribers (mln),2020/6/30,455.98
+Internet/Broadband Subscribers,rural internet subscribers (mln),2020/6/30,293.09
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2020/6/30,55.41
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2020/6/30,98.35
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2020/6/30,33.0
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2020/6/30,90.12
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2020/6/30,744.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2020/6/30,12.15
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2020/3/31,1177.97
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2020/3/31,656.46
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2020/3/31,521.51
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2020/3/31,88.54
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2020/3/31,11.46
+Telecom Subscribers (Wireless +Wireline),Teledensity,2020/3/31,87.37
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2020/3/31,142.31
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2020/3/31,58.79
+Wireless Subscribers,total wireless subscribers (mln),2020/3/31,1157.75
+Wireless Subscribers,Urban Subscribers (mln),2020/3/31,638.48
+Wireless Subscribers,Rural Subscribers (mon),2020/3/31,519.27
+Wireless Subscribers,Market share of private operators %,2020/3/31,89.36
+Wireless Subscribers,market share of PSU operators,2020/3/31,10.64
+Wireless Subscribers,Teledensity,2020/3/31,85.87
+Wireless Subscribers,urban teledensity ,2020/3/31,138.41
+Wireless Subscribers,rural teledensity,2020/3/31,58.54
+Wireline Subscribers,total wireless data usage (tb),2020/3/31,23403000.0
+Wireline Subscribers,total wireline subscribers (mln),2020/3/31,20.22
+Wireline Subscribers,Urban Subscribers (mln),2020/3/31,17.97
+Wireline Subscribers,Rural Subscribers (mln),2020/3/31,2.24
+Wireline Subscribers,Market share of private operators %,2020/3/31,41.53
+Wireline Subscribers,market share of PSU operators,2020/3/31,58.47
+Wireline Subscribers,Teledensity,2020/3/31,1.5
+Wireline Subscribers,urban teledensity ,2020/3/31,3.9
+Wireline Subscribers,rural teledensity,2020/3/31,0.25
+Telecom Financial Data,Gross Revenue (crore),2020/3/31,67533.74
+Telecom Financial Data,Adjusted Gross Revenue (crore),2020/3/31,44940.32
+Telecom Financial Data,Monthly ARPU (rupees),2020/3/31,97.64
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2020/3/31,743.19
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2020/3/31,55.75
+Internet/Broadband Subscribers,Broadband subscribers (mln),2020/3/31,687.44
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2020/3/31,22.42
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2020/3/31,720.78
+Internet/Broadband Subscribers,urban internet subscribers (mln),2020/3/31,457.23
+Internet/Broadband Subscribers,rural internet subscribers (mln),2020/3/31,285.97
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2020/3/31,55.12
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2020/3/31,99.12
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2020/3/31,32.24
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2020/3/31,91.49
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2020/3/31,750.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2020/3/31,11.0
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2019/12/30,1172.44
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2019/12/30,662.45
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2019/12/30,509.99
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2019/12/30,88.55
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2019/12/30,11.45
+Telecom Subscribers (Wireless +Wireline),Teledensity,2019/12/30,88.56
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2019/12/30,156.26
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2019/12/30,56.67
+Wireless Subscribers,total wireless subscribers (mln),2019/12/30,1154.44
+Wireless Subscribers,Urban Subscribers (mln),2019/12/30,643.97
+Wireless Subscribers,Rural Subscribers (mon),2019/12/30,507.46
+Wireless Subscribers,Market share of private operators %,2019/12/30,89.45
+Wireless Subscribers,market share of PSU operators,2019/12/30,10.55
+Wireless Subscribers,Teledensity,2019/12/30,86.98
+Wireless Subscribers,urban teledensity ,2019/12/30,151.9
+Wireless Subscribers,rural teledensity,2019/12/30,56.39
+Wireline Subscribers,total wireless data usage (tb),2019/12/30,21402000.0
+Wireline Subscribers,total wireline subscribers (mln),2019/12/30,21.0
+Wireline Subscribers,Urban Subscribers (mln),2019/12/30,18.46
+Wireline Subscribers,Rural Subscribers (mln),2019/12/30,2.53
+Wireline Subscribers,Market share of private operators %,2019/12/30,39.53
+Wireline Subscribers,market share of PSU operators,2019/12/30,60.47
+Wireline Subscribers,Teledensity,2019/12/30,1.59
+Wireline Subscribers,urban teledensity ,2019/12/30,4.36
+Wireline Subscribers,rural teledensity,2019/12/30,0.28
+Telecom Financial Data,Gross Revenue (crore),2019/12/30,63764.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2019/12/30,40877.0
+Telecom Financial Data,Monthly ARPU (rupees),2019/12/30,85.07
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2019/12/30,718.74
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2019/12/30,56.806
+Internet/Broadband Subscribers,Broadband subscribers (mln),2019/12/30,661.938
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2019/12/30,22.386
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2019/12/30,696.36
+Internet/Broadband Subscribers,urban internet subscribers (mln),2019/12/30,450.31
+Internet/Broadband Subscribers,rural internet subscribers (mln),2019/12/30,268.43
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2019/12/30,54.29
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2019/12/30,106.22
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2019/12/30,29.83
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2019/12/30,78.65
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2019/12/30,712.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2019/12/30,10.4
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2019/9/30,1195.24
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2019/9/30,677.95
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2019/9/30,517.29
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2019/9/30,88.81
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2019/9/30,11.19
+Telecom Subscribers (Wireless +Wireline),Teledensity,2019/9/30,90.52
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2019/9/30,160.63
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2019/9/30,57.59
+Wireless Subscribers,total wireless subscribers (mln),2019/9/30,1173.75
+Wireless Subscribers,Urban Subscribers (mln),2019/9/30,659.18
+Wireless Subscribers,Rural Subscribers (mon),2019/9/30,514.56
+Wireless Subscribers,Market share of private operators %,2019/9/30,89.74
+Wireless Subscribers,market share of PSU operators,2019/9/30,10.26
+Wireless Subscribers,Teledensity,2019/9/30,88.9
+Wireless Subscribers,urban teledensity ,2019/9/30,156.18
+Wireless Subscribers,rural teledensity,2019/9/30,57.28
+Wireline Subscribers,total wireless data usage (tb),2019/9/30,20315000.0
+Wireline Subscribers,total wireline subscribers (mln),2019/9/30,21.49
+Wireline Subscribers,Urban Subscribers (mln),2019/9/30,18.77
+Wireline Subscribers,Rural Subscribers (mln),2019/9/30,2.72
+Wireline Subscribers,Market share of private operators %,2019/9/30,38.07
+Wireline Subscribers,market share of PSU operators,2019/9/30,61.93
+Wireline Subscribers,Teledensity,2019/9/30,1.63
+Wireline Subscribers,urban teledensity ,2019/9/30,4.45
+Wireline Subscribers,rural teledensity,2019/9/30,0.3
+Telecom Financial Data,Gross Revenue (crore),2019/9/30,59992.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2019/9/30,37338.0
+Telecom Financial Data,Monthly ARPU (rupees),2019/9/30,78.17
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2019/9/30,687.62
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2019/9/30,62.2
+Internet/Broadband Subscribers,Broadband subscribers (mln),2019/9/30,625.42
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2019/9/30,22.26
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2019/9/30,665.37
+Internet/Broadband Subscribers,urban internet subscribers (mln),2019/9/30,439.99
+Internet/Broadband Subscribers,rural internet subscribers (mln),2019/9/30,247.63
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2019/9/30,52.08
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2019/9/30,104.25
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2019/9/30,27.57
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2019/9/30,74.38
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2019/9/30,691.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2019/9/30,10.37
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2019/6/30,1186.63
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2019/6/30,675.58
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2019/6/30,511.05
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2019/6/30,88.75
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2019/6/30,11.25
+Telecom Subscribers (Wireless +Wireline),Teledensity,2019/6/30,90.11
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2019/6/30,167.78
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2019/6/30,56.99
+Wireless Subscribers,total wireless subscribers (mln),2019/6/30,1165.46
+Wireless Subscribers,Urban Subscribers (mln),2019/6/30,657.27
+Wireless Subscribers,Rural Subscribers (mon),2019/6/30,508.19
+Wireless Subscribers,Market share of private operators %,2019/6/30,89.73
+Wireless Subscribers,market share of PSU operators,2019/6/30,10.27
+Wireless Subscribers,Teledensity,2019/6/30,88.5
+Wireless Subscribers,urban teledensity ,2019/6/30,156.42
+Wireless Subscribers,rural teledensity,2019/6/30,56.68
+Wireline Subscribers,total wireless data usage (tb),2019/6/30,17940576.0
+Wireline Subscribers,total wireline subscribers (mln),2019/6/30,21.17
+Wireline Subscribers,Urban Subscribers (mln),2019/6/30,18.31
+Wireline Subscribers,Rural Subscribers (mln),2019/6/30,2.85
+Wireline Subscribers,Market share of private operators %,2019/6/30,34.77
+Wireline Subscribers,market share of PSU operators,2019/6/30,65.23
+Wireline Subscribers,Teledensity,2019/6/30,1.61
+Wireline Subscribers,urban teledensity ,2019/6/30,4.36
+Wireline Subscribers,rural teledensity,2019/6/30,0.32
+Telecom Financial Data,Gross Revenue (crore),2019/6/30,61535.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2019/6/30,39124.0
+Telecom Financial Data,Monthly ARPU (rupees),2019/6/30,80.65
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2019/6/30,665.31
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2019/6/30,70.72
+Internet/Broadband Subscribers,Broadband subscribers (mln),2019/6/30,594.38
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2019/6/30,21.67
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2019/6/30,643.64
+Internet/Broadband Subscribers,urban internet subscribers (mln),2019/6/30,427.05
+Internet/Broadband Subscribers,rural internet subscribers (mln),2019/6/30,238.26
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2019/6/30,50.52
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2019/6/30,101.63
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2019/6/30,26.57
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2019/6/30,74.3
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2019/6/30,701.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2019/6/30,9.77
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2019/3/31,1183.51
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2019/3/31,669.16
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2019/3/31,514.35
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2019/3/31,88.71
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2019/3/31,11.29
+Telecom Subscribers (Wireless +Wireline),Teledensity,2019/3/31,90.11
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2019/3/31,159.96
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2019/3/31,57.47
+Wireless Subscribers,total wireless subscribers (mln),2019/3/31,1161.81
+Wireless Subscribers,Urban Subscribers (mln),2019/3/31,650.49
+Wireless Subscribers,Rural Subscribers (mon),2019/3/31,511.32
+Wireless Subscribers,Market share of private operators %,2019/3/31,89.74
+Wireless Subscribers,market share of PSU operators,2019/3/31,10.26
+Wireless Subscribers,Teledensity,2019/3/31,88.46
+Wireless Subscribers,urban teledensity ,2019/3/31,155.49
+Wireless Subscribers,rural teledensity,2019/3/31,57.13
+Wireline Subscribers,total wireless data usage (tb),2019/3/31,15850560.0
+Wireline Subscribers,total wireline subscribers (mln),2019/3/31,21.7
+Wireline Subscribers,Urban Subscribers (mln),2019/3/31,18.67
+Wireline Subscribers,Rural Subscribers (mln),2019/3/31,3.02
+Wireline Subscribers,Market share of private operators %,2019/3/31,33.58
+Wireline Subscribers,market share of PSU operators,2019/3/31,66.42
+Wireline Subscribers,Teledensity,2019/3/31,1.65
+Wireline Subscribers,urban teledensity ,2019/3/31,4.46
+Wireline Subscribers,rural teledensity,2019/3/31,0.34
+Telecom Financial Data,Gross Revenue (crore),2019/3/31,58414.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2019/3/31,35932.0
+Telecom Financial Data,Monthly ARPU (rupees),2019/3/31,72.49
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2019/3/31,636.73
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2019/3/31,73.42
+Internet/Broadband Subscribers,Broadband subscribers (mln),2019/3/31,563.31
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2019/3/31,21.68
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2019/3/31,615.05
+Internet/Broadband Subscribers,urban internet subscribers (mln),2019/3/31,409.72
+Internet/Broadband Subscribers,rural internet subscribers (mln),2019/3/31,227.01
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2019/3/31,48.48
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2019/3/31,97.94
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2019/3/31,25.36
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2019/3/31,71.39
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2019/3/31,692.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2019/3/31,9.06
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2018/12/31,1197.87
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2018/12/31,666.28
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2018/12/31,531.59
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2018/12/31,88.93
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2018/12/31,11.07
+Telecom Subscribers (Wireless +Wireline),Teledensity,2018/12/31,91.45
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2018/12/31,159.98
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2018/12/31,59.5
+Wireless Subscribers,total wireless subscribers (mln),2018/12/31,1176.0
+Wireless Subscribers,Urban Subscribers (mln),2018/12/31,647.52
+Wireless Subscribers,Rural Subscribers (mon),2018/12/31,528.48
+Wireless Subscribers,Market share of private operators %,2018/12/31,89.98
+Wireless Subscribers,market share of PSU operators,2018/12/31,10.02
+Wireless Subscribers,Teledensity,2018/12/31,89.78
+Wireless Subscribers,urban teledensity ,2018/12/31,155.48
+Wireless Subscribers,rural teledensity,2018/12/31,59.15
+Wireline Subscribers,total wireless data usage (tb),2018/12/31,14253256.0
+Wireline Subscribers,total wireline subscribers (mln),2018/12/31,21.87
+Wireline Subscribers,Urban Subscribers (mln),2018/12/31,18.76
+Wireline Subscribers,Rural Subscribers (mln),2018/12/31,3.11
+Wireline Subscribers,Market share of private operators %,2018/12/31,32.76
+Wireline Subscribers,market share of PSU operators,2018/12/31,67.24
+Wireline Subscribers,Teledensity,2018/12/31,1.67
+Wireline Subscribers,urban teledensity ,2018/12/31,4.5
+Wireline Subscribers,rural teledensity,2018/12/31,0.35
+Telecom Financial Data,Gross Revenue (crore),2018/12/31,58991.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2018/12/31,36054.0
+Telecom Financial Data,Monthly ARPU (rupees),2018/12/31,72.82
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2018/12/31,604.21
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2018/12/31,78.86
+Internet/Broadband Subscribers,Broadband subscribers (mln),2018/12/31,525.36
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2018/12/31,21.42
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2018/12/31,582.79
+Internet/Broadband Subscribers,urban internet subscribers (mln),2018/12/31,390.91
+Internet/Broadband Subscribers,rural internet subscribers (mln),2018/12/31,213.3
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2018/12/31,46.13
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2018/12/31,93.86
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2018/12/31,23.87
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2018/12/31,70.13
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2018/12/31,667.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2018/12/31,8.74
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2018/9/30,1191.4
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2018/9/30,666.64
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2018/9/30,524.76
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2018/9/30,88.97
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2018/9/30,11.03
+Telecom Subscribers (Wireless +Wireline),Teledensity,2018/9/30,91.2
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2018/9/30,160.79
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2018/9/30,58.85
+Wireless Subscribers,total wireless subscribers (mln),2018/9/30,1169.29
+Wireless Subscribers,Urban Subscribers (mln),2018/9/30,647.7
+Wireless Subscribers,Rural Subscribers (mon),2018/9/30,521.59
+Wireless Subscribers,Market share of private operators %,2018/9/30,90.03
+Wireless Subscribers,market share of PSU operators,2018/9/30,9.97
+Wireless Subscribers,Teledensity,2018/9/30,89.51
+Wireless Subscribers,urban teledensity ,2018/9/30,156.23
+Wireless Subscribers,rural teledensity,2018/9/30,58.49
+Wireline Subscribers,total wireless data usage (tb),2018/9/30,12549891.0
+Wireline Subscribers,total wireline subscribers (mln),2018/9/30,21.11
+Wireline Subscribers,Urban Subscribers (mln),2018/9/30,18.95
+Wireline Subscribers,Rural Subscribers (mln),2018/9/30,3.17
+Wireline Subscribers,Market share of private operators %,2018/9/30,32.49
+Wireline Subscribers,market share of PSU operators,2018/9/30,67.51
+Wireline Subscribers,Teledensity,2018/9/30,1.69
+Wireline Subscribers,urban teledensity ,2018/9/30,4.57
+Wireline Subscribers,rural teledensity,2018/9/30,0.36
+Telecom Financial Data,Gross Revenue (crore),2018/9/30,57827.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2018/9/30,36142.0
+Telecom Financial Data,Monthly ARPU (rupees),2018/9/30,72.5
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2018/9/30,560.01
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2018/9/30,78.3
+Internet/Broadband Subscribers,Broadband subscribers (mln),2018/9/30,481.7
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2018/9/30,21.25
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2018/9/30,538.76
+Internet/Broadband Subscribers,urban internet subscribers (mln),2018/9/30,365.94
+Internet/Broadband Subscribers,rural internet subscribers (mln),2018/9/30,194.07
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2018/9/30,42.87
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2018/9/30,88.26
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2018/9/30,21.76
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2018/9/30,67.39
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2018/9/30,627.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2018/9/30,8.32
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2018/6/30,1168.89
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2018/6/30,652.76
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2018/6/30,516.13
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2018/6/30,88.72
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2018/6/30,11.28
+Telecom Subscribers (Wireless +Wireline),Teledensity,2018/6/30,89.72
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2018/6/30,158.16
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2018/6/30,57.99
+Wireless Subscribers,total wireless subscribers (mln),2018/6/30,1146.49
+Wireless Subscribers,Urban Subscribers (mln),2018/6/30,633.6
+Wireless Subscribers,Rural Subscribers (mon),2018/6/30,512.89
+Wireless Subscribers,Market share of private operators %,2018/6/30,89.83
+Wireless Subscribers,market share of PSU operators,2018/6/30,10.17
+Wireless Subscribers,Teledensity,2018/6/30,88.0
+Wireless Subscribers,urban teledensity ,2018/6/30,153.52
+Wireless Subscribers,rural teledensity,2018/6/30,57.63
+Wireline Subscribers,total wireless data usage (tb),2018/6/30,10418076.0
+Wireline Subscribers,total wireline subscribers (mln),2018/6/30,22.4
+Wireline Subscribers,Urban Subscribers (mln),2018/6/30,19.16
+Wireline Subscribers,Rural Subscribers (mln),2018/6/30,3.24
+Wireline Subscribers,Market share of private operators %,2018/6/30,32.12
+Wireline Subscribers,market share of PSU operators,2018/6/30,67.88
+Wireline Subscribers,Teledensity,2018/6/30,1.72
+Wireline Subscribers,urban teledensity ,2018/6/30,4.63
+Wireline Subscribers,rural teledensity,2018/6/30,0.36
+Telecom Financial Data,Gross Revenue (crore),2018/6/30,58401.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2018/6/30,36552.0
+Telecom Financial Data,Monthly ARPU (rupees),2018/6/30,73.34
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2018/6/30,512.26
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2018/6/30,65.14
+Internet/Broadband Subscribers,Broadband subscribers (mln),2018/6/30,447.12
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2018/6/30,21.16
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2018/6/30,491.1
+Internet/Broadband Subscribers,urban internet subscribers (mln),2018/6/30,338.84
+Internet/Broadband Subscribers,rural internet subscribers (mln),2018/6/30,173.42
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2018/6/30,39.32
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2018/6/30,82.1
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2018/6/30,19.48
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2018/6/30,69.0
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2018/6/30,608.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2018/6/30,3.216
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2018/3/31,1206.22
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2018/3/31,681.61
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2018/3/31,524.61
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2018/3/31,89.15
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2018/3/31,10.85
+Telecom Subscribers (Wireless +Wireline),Teledensity,2018/3/31,92.84
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2018/3/31,165.9
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2018/3/31,59.05
+Wireless Subscribers,total wireless subscribers (mln),2018/3/31,1183.41
+Wireless Subscribers,Urban Subscribers (mln),2018/3/31,662.18
+Wireless Subscribers,Rural Subscribers (mon),2018/3/31,521.23
+Wireless Subscribers,Market share of private operators %,2018/3/31,90.26
+Wireless Subscribers,market share of PSU operators,2018/3/31,9.74
+Wireless Subscribers,Teledensity,2018/3/31,91.09
+Wireless Subscribers,urban teledensity ,2018/3/31,161.17
+Wireless Subscribers,rural teledensity,2018/3/31,58.67
+Wireline Subscribers,total wireless data usage (tb),2018/3/31,8067633.0
+Wireline Subscribers,total wireline subscribers (mln),2018/3/31,22.81
+Wireline Subscribers,Urban Subscribers (mln),2018/3/31,19.43
+Wireline Subscribers,Rural Subscribers (mln),2018/3/31,3.38
+Wireline Subscribers,Market share of private operators %,2018/3/31,31.55
+Wireline Subscribers,market share of PSU operators,2018/3/31,68.45
+Wireline Subscribers,Teledensity,2018/3/31,1.76
+Wireline Subscribers,urban teledensity ,2018/3/31,4.73
+Wireline Subscribers,rural teledensity,2018/3/31,0.38
+Telecom Financial Data,Gross Revenue (crore),2018/3/31,62198.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2018/3/31,35697.0
+Telecom Financial Data,Monthly ARPU (rupees),2018/3/31,71.62
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2018/3/31,493.96
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2018/3/31,81.35
+Internet/Broadband Subscribers,Broadband subscribers (mln),2018/3/31,412.6
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2018/3/31,21.24
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2018/3/31,472.72
+Internet/Broadband Subscribers,urban internet subscribers (mln),2018/3/31,348.13
+Internet/Broadband Subscribers,rural internet subscribers (mln),2018/3/31,145.83
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2018/3/31,38.02
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2018/3/31,84.74
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2018/3/31,16.41
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2018/3/31,76.0
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2018/3/31,584.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2018/3/31,61.0
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2017/12/31,1190.67
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2017/12/31,688.25
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2017/12/31,502.42
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2017/12/31,89.31
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2017/12/31,10.69
+Telecom Subscribers (Wireless +Wireline),Teledensity,2017/12/31,91.9
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2017/12/31,168.29
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2017/12/31,56.66
+Wireless Subscribers,total wireless subscribers (mln),2017/12/31,1167.44
+Wireless Subscribers,Urban Subscribers (mln),2017/12/31,668.44
+Wireless Subscribers,Rural Subscribers (mon),2017/12/31,499.0
+Wireless Subscribers,Market share of private operators %,2017/12/31,90.45
+Wireless Subscribers,market share of PSU operators,2017/12/31,9.55
+Wireless Subscribers,Teledensity,2017/12/31,90.11
+Wireless Subscribers,urban teledensity ,2017/12/31,163.44
+Wireless Subscribers,rural teledensity,2017/12/31,56.28
+Wireline Subscribers,total wireless data usage (tb),2017/12/31,6521893.0
+Wireline Subscribers,total wireline subscribers (mln),2017/12/31,23.23
+Wireline Subscribers,Urban Subscribers (mln),2017/12/31,19.81
+Wireline Subscribers,Rural Subscribers (mln),2017/12/31,3.42
+Wireline Subscribers,Market share of private operators %,2017/12/31,31.97
+Wireline Subscribers,market share of PSU operators,2017/12/31,68.03
+Wireline Subscribers,Teledensity,2017/12/31,1.79
+Wireline Subscribers,urban teledensity ,2017/12/31,4.84
+Wireline Subscribers,rural teledensity,2017/12/31,0.39
+Telecom Financial Data,Gross Revenue (crore),2017/12/31,61089.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2017/12/31,38536.0
+Telecom Financial Data,Monthly ARPU (rupees),2017/12/31,80.77
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2017/12/31,445.96
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2017/12/31,83.09
+Internet/Broadband Subscribers,Broadband subscribers (mln),2017/12/31,362.87
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2017/12/31,21.28
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2017/12/31,424.67
+Internet/Broadband Subscribers,urban internet subscribers (mln),2017/12/31,313.92
+Internet/Broadband Subscribers,rural internet subscribers (mln),2017/12/31,132.03
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2017/12/31,34.42
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2017/12/31,76.76
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2017/12/31,14.89
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2017/12/31,80.0
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2017/12/31,495.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2017/12/31,
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2017/9/30,1206.71
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2017/9/30,704.89
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2017/9/30,501.82
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2017/9/30,89.59
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2017/9/30,10.41
+Telecom Subscribers (Wireless +Wireline),Teledensity,2017/9/30,93.4
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2017/9/30,173.15
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2017/9/30,56.71
+Wireless Subscribers,total wireless subscribers (mln),2017/9/30,1183.04
+Wireless Subscribers,Urban Subscribers (mln),2017/9/30,684.77
+Wireless Subscribers,Rural Subscribers (mon),2017/9/30,498.28
+Wireless Subscribers,Market share of private operators %,2017/9/30,90.75
+Wireless Subscribers,market share of PSU operators,2017/9/30,9.41
+Wireless Subscribers,Teledensity,2017/9/30,91.56
+Wireless Subscribers,urban teledensity ,2017/9/30,168.2
+Wireless Subscribers,rural teledensity,2017/9/30,56.31
+Wireline Subscribers,total wireless data usage (tb),2017/9/30,5430046.0
+Wireline Subscribers,total wireline subscribers (mln),2017/9/30,23.67
+Wireline Subscribers,Urban Subscribers (mln),2017/9/30,20.12
+Wireline Subscribers,Rural Subscribers (mln),2017/9/30,3.55
+Wireline Subscribers,Market share of private operators %,2017/9/30,31.56
+Wireline Subscribers,market share of PSU operators,2017/9/30,68.44
+Wireline Subscribers,Teledensity,2017/9/30,1.83
+Wireline Subscribers,urban teledensity ,2017/9/30,4.94
+Wireline Subscribers,rural teledensity,2017/9/30,0.4
+Telecom Financial Data,Gross Revenue (crore),2017/9/30,66362.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2017/9/30,41669.0
+Telecom Financial Data,Monthly ARPU (rupees),2017/9/30,88.09
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2017/9/30,429.23
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2017/9/30,104.34
+Internet/Broadband Subscribers,Broadband subscribers (mln),2017/9/30,324.89
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2017/9/30,21.35
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2017/9/30,407.88
+Internet/Broadband Subscribers,urban internet subscribers (mln),2017/9/30,299.83
+Internet/Broadband Subscribers,rural internet subscribers (mln),2017/9/30,129.41
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2017/9/30,33.22
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2017/9/30,73.65
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2017/9/30,14.62
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2017/9/30,
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2017/9/30,437.0
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2017/9/30,
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2017/6/30,1210.84
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2017/6/30,700.96
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2017/6/30,509.88
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2017/6/30,89.72
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2017/6/30,10.28
+Telecom Subscribers (Wireless +Wireline),Teledensity,2017/6/30,93.98
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2017/6/30,172.98
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2017/6/30,57.73
+Wireless Subscribers,total wireless subscribers (mln),2017/6/30,1186.84
+Wireless Subscribers,Urban Subscribers (mln),2017/6/30,680.66
+Wireless Subscribers,Rural Subscribers (mon),2017/6/30,506.18
+Wireless Subscribers,Market share of private operators %,2017/6/30,90.92
+Wireless Subscribers,market share of PSU operators,2017/6/30,9.08
+Wireless Subscribers,Teledensity,2017/6/30,92.12
+Wireless Subscribers,urban teledensity ,2017/6/30,167.97
+Wireless Subscribers,rural teledensity,2017/6/30,57.31
+Wireline Subscribers,total wireless data usage (tb),2017/6/30,4206415.0
+Wireline Subscribers,total wireline subscribers (mln),2017/6/30,24.0
+Wireline Subscribers,Urban Subscribers (mln),2017/6/30,20.31
+Wireline Subscribers,Rural Subscribers (mln),2017/6/30,3.69
+Wireline Subscribers,Market share of private operators %,2017/6/30,30.64
+Wireline Subscribers,market share of PSU operators,2017/6/30,69.36
+Wireline Subscribers,Teledensity,2017/6/30,1.86
+Wireline Subscribers,urban teledensity ,2017/6/30,5.01
+Wireline Subscribers,rural teledensity,2017/6/30,0.42
+Telecom Financial Data,Gross Revenue (crore),2017/6/30,64889.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2017/6/30,39778.0
+Telecom Financial Data,Monthly ARPU (rupees),2017/6/30,83.41
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2017/6/30,431.21
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2017/6/30,130.38
+Internet/Broadband Subscribers,Broadband subscribers (mln),2017/6/30,300.84
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2017/6/30,21.67
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2017/6/30,409.55
+Internet/Broadband Subscribers,urban internet subscribers (mln),2017/6/30,293.82
+Internet/Broadband Subscribers,rural internet subscribers (mln),2017/6/30,137.39
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2017/6/30,33.47
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2017/6/30,72.51
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2017/6/30,15.56
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2017/6/30,
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2017/6/30,
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2017/6/30,
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2017/3/31,1194.58
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2017/3/31,692.97
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2017/3/31,501.61
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2017/3/31,8981.0
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2017/3/31,10.19
+Telecom Subscribers (Wireless +Wireline),Teledensity,2017/3/31,92.98
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2017/3/31,171.8
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2017/3/31,56.91
+Wireless Subscribers,total wireless subscribers (mln),2017/3/31,1170.18
+Wireless Subscribers,Urban Subscribers (mln),2017/3/31,672.42
+Wireless Subscribers,Rural Subscribers (mon),2017/3/31,497.76
+Wireless Subscribers,Market share of private operators %,2017/3/31,91.06
+Wireless Subscribers,market share of PSU operators,2017/3/31,8.94
+Wireless Subscribers,Teledensity,2017/3/31,91.08
+Wireless Subscribers,urban teledensity ,2017/3/31,166.71
+Wireless Subscribers,rural teledensity,2017/3/31,56.47
+Wireline Subscribers,total wireless data usage (tb),2017/3/31,
+Wireline Subscribers,total wireline subscribers (mln),2017/3/31,24.4
+Wireline Subscribers,Urban Subscribers (mln),2017/3/31,20.56
+Wireline Subscribers,Rural Subscribers (mln),2017/3/31,3.85
+Wireline Subscribers,Market share of private operators %,2017/3/31,29.71
+Wireline Subscribers,market share of PSU operators,2017/3/31,70.29
+Wireline Subscribers,Teledensity,2017/3/31,1.9
+Wireline Subscribers,urban teledensity ,2017/3/31,5.1
+Wireline Subscribers,rural teledensity,2017/3/31,0.44
+Telecom Financial Data,Gross Revenue (crore),2017/3/31,63315.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2017/3/31,40831.0
+Telecom Financial Data,Monthly ARPU (rupees),2017/3/31,89.34
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2017/3/31,422.19
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2017/3/31,145.68
+Internet/Broadband Subscribers,Broadband subscribers (mln),2017/3/31,276.52
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2017/3/31,21.58
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2017/3/31,400.62
+Internet/Broadband Subscribers,urban internet subscribers (mln),2017/3/31,285.68
+Internet/Broadband Subscribers,rural internet subscribers (mln),2017/3/31,136.52
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2017/3/31,32.86
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2017/3/31,70.83
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2017/3/31,15.49
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2017/3/31,
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2017/3/31,
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2017/3/31,
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2016/12/31,1151.78
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2016/12/31,683.14
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2016/12/31,468.64
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2016/12/31,89.79
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2016/12/31,10.21
+Telecom Subscribers (Wireless +Wireline),Teledensity,2016/12/31,89.9
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2016/12/31,170.15
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2016/12/31,53.27
+Wireless Subscribers,total wireless subscribers (mln),2016/12/31,1127.37
+Wireless Subscribers,Urban Subscribers (mln),2016/12/31,662.6
+Wireless Subscribers,Rural Subscribers (mon),2016/12/31,464.78
+Wireless Subscribers,Market share of private operators %,2016/12/31,91.09
+Wireless Subscribers,market share of PSU operators,2016/12/31,8.91
+Wireless Subscribers,Teledensity,2016/12/31,88.0
+Wireless Subscribers,urban teledensity ,2016/12/31,165.04
+Wireless Subscribers,rural teledensity,2016/12/31,52.84
+Wireline Subscribers,total wireless data usage (tb),2016/12/31,
+Wireline Subscribers,total wireline subscribers (mln),2016/12/31,24.4
+Wireline Subscribers,Urban Subscribers (mln),2016/12/31,20.55
+Wireline Subscribers,Rural Subscribers (mln),2016/12/31,3.86
+Wireline Subscribers,Market share of private operators %,2016/12/31,29.46
+Wireline Subscribers,market share of PSU operators,2016/12/31,70.54
+Wireline Subscribers,Teledensity,2016/12/31,1.9
+Wireline Subscribers,urban teledensity ,2016/12/31,5.12
+Wireline Subscribers,rural teledensity,2016/12/31,0.44
+Telecom Financial Data,Gross Revenue (crore),2016/12/31,66532.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2016/12/31,45905.0
+Telecom Financial Data,Monthly ARPU (rupees),2016/12/31,112.0
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2016/12/31,391.5
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2016/12/31,155.41
+Internet/Broadband Subscribers,Broadband subscribers (mln),2016/12/31,236.09
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2016/12/31,21.51
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2016/12/31,370.0
+Internet/Broadband Subscribers,urban internet subscribers (mln),2016/12/31,276.44
+Internet/Broadband Subscribers,rural internet subscribers (mln),2016/12/31,115.06
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2016/12/31,30.56
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2016/12/31,68.86
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2016/12/31,13.08
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2016/12/31,
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2016/12/31,
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2016/12/31,
+Telecom Subscribers (Wireless +Wireline),Total Subscribers (mln),2016/9/30,1074.24
+Telecom Subscribers (Wireless +Wireline),Urban Subscribers (mln),2016/9/30,624.38
+Telecom Subscribers (Wireless +Wireline),Rural Subscribers (mon),2016/9/30,449.86
+Telecom Subscribers (Wireless +Wireline),Market share of private operators %,2016/9/30,89.32
+Telecom Subscribers (Wireless +Wireline),market share of PSU operators,2016/9/30,10.68
+Telecom Subscribers (Wireless +Wireline),Teledensity,2016/9/30,84.09
+Telecom Subscribers (Wireless +Wireline),urban teledensity ,2016/9/30,156.24
+Telecom Subscribers (Wireless +Wireline),rural teledensity,2016/9/30,51.24
+Wireless Subscribers,total wireless subscribers (mln),2016/9/30,1047.74
+Wireless Subscribers,Urban Subscribers (mln),2016/9/30,603.8
+Wireless Subscribers,Rural Subscribers (mon),2016/9/30,445.94
+Wireless Subscribers,Market share of private operators %,2016/9/30,90.72
+Wireless Subscribers,market share of PSU operators,2016/9/30,9.28
+Wireless Subscribers,Teledensity,2016/9/30,82.17
+Wireless Subscribers,urban teledensity ,2016/9/30,151.1
+Wireless Subscribers,rural teledensity,2016/9/30,50.8
+Wireline Subscribers,total wireless data usage (tb),2016/9/30,
+Wireline Subscribers,total wireline subscribers (mln),2016/9/30,24.49
+Wireline Subscribers,Urban Subscribers (mln),2016/9/30,20.57
+Wireline Subscribers,Rural Subscribers (mln),2016/9/30,3.92
+Wireline Subscribers,Market share of private operators %,2016/9/30,29.16
+Wireline Subscribers,market share of PSU operators,2016/9/30,70.84
+Wireline Subscribers,Teledensity,2016/9/30,1.92
+Wireline Subscribers,urban teledensity ,2016/9/30,5.15
+Wireline Subscribers,rural teledensity,2016/9/30,0.45
+Telecom Financial Data,Gross Revenue (crore),2016/9/30,71379.0
+Telecom Financial Data,Adjusted Gross Revenue (crore),2016/9/30,50539.0
+Telecom Financial Data,Monthly ARPU (rupees),2016/9/30,131.0
+Internet/Broadband Subscribers,Total Internet Subscribers (mln),2016/9/30,367.48
+Internet/Broadband Subscribers,Narrowed Band Subscribers (mln),2016/9/30,175.18
+Internet/Broadband Subscribers,Broadband subscribers (mln),2016/9/30,192.3
+Internet/Broadband Subscribers,Wired Internet Subscribers (mln),2016/9/30,21.26
+Internet/Broadband Subscribers,wireless internet subscribers (mln),2016/9/30,346.22
+Internet/Broadband Subscribers,urban internet subscribers (mln),2016/9/30,247.69
+Internet/Broadband Subscribers,rural internet subscribers (mln),2016/9/30,119.79
+Internet/Broadband Subscribers,Total internet subscribers per 100 population,2016/9/30,28.77
+Internet/Broadband Subscribers,urban internet subscribers per 100 population,2016/9/30,61.98
+Internet/Broadband Subscribers,rural internet subscribers per 100 population,2016/9/30,13.65
+Revenue & Usage Parameters,Monthly ARPU of Wireless Service (GSM+CDMA+LTE) (rupees),2016/9/30,
+Revenue & Usage Parameters,Minutes of Usage (MOU) per subscriber per month - Wireless Service (GSM+CDMA+LTE) (minutes),2016/9/30,
+Wireless Data Usage,Average Data Usage per unique data subscriber per month–GSM (2G+3G+4G LTE+CDMA) (GB),2016/9/30,
