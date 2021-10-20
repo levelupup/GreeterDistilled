@@ -14,6 +14,6 @@ df = df.sort_values(by='Date')
 df = pd.pivot_table(df,index=['Category_A','Date'],columns=['Category_B'],values='value')
 
 fig, ax = plt.subplots()
-ax = sns.lineplot(data=df,x='Date',y='value')
+ax = sns.lineplot(data=df,x='Date',y=df.columns)
 plt.xticks(rotation='vertical')
 st.pyplot(fig)
