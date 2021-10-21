@@ -26,4 +26,5 @@ fig, ax = plt.subplots()
 
 for eco in economy:
     plt.plot(df[eco])
+plt.title('World FDI Watch')
 st.pyplot(fig)
