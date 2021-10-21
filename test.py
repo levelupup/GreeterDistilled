@@ -5,15 +5,21 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 st.set_page_config(layout='wide')
-df = pd.read_csv('india_telecom_performance_indicators.csv')
-category_a = st.selectbox('Select major classification',df['Category_A'].unique())
+df = pd.read_csv('world_fdi.csv')
 
+economy = st.sidebar.multiselect('Select economies',df['Economy Label'].unique())
+mode = st.sidebar.multiselect('Select modes',df['Mode Label'].unique())
+direction = st.sidebar.multiselect('Select directions',df['Direction Label'].unique())
+year = st.sidebar.multiselect('Select years',df['Year'].unique())
+item = st.selectbox('select items',['US dollars at current prices in millions',
+                                     'US dollars at current prices per capita',	
+                                     'Percentage of total world',
+                                     'Percentage of Gross Domestic Product'])
 
-df = df[df['Category_A'].eq(category_a)]
-df = df.sort_values(by='Date')
-df = pd.pivot_table(df,index=['Category_A','Date'],columns=['Category_B'],values='value')
+df = df[df['Economy Label'].eq(economy) & df['Mode Label'].eq(mode) & df['Direction Label'].eq(direction) & df['Year'].eq(year)]
+
 
 fig, ax = plt.subplots()
-ax = sns.lineplot(data=df,x='Date',y=df.columns)
+ax = sns.lineplot(data=df,x='Year',y=item)
 plt.xticks(rotation='vertical')
 st.pyplot(fig)
