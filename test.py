@@ -7,11 +7,14 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout='centered')
 
 df = pd.read_csv('world_fdi.csv')
-df['Economy Label'] = df['Economy Label'].replace({'Korea, Republic of':'South Korea','China, Taiwan Province of':'Taiwan'})
+df['Economy Label'] = df['Economy Label'].replace({'Korea, Republic of':'South Korea',
+                                                   'China, Taiwan Province of':'Taiwan',
+                                                   'Viet Nam':'Vietnam'})
 
 asia_economies = ['China','South Korea','Malaysia','Philippines',
                   'Singapore','Thailand','Viet Nam','India',
-                  'Indonesia','Taiwan']
+                  'Indonesia','Taiwan','Japan']
+
 economy = st.sidebar.multiselect('Select economies',asia_economies)
 mode = st.sidebar.selectbox('Select flow or stock',df['Mode Label'].unique())
 direction = st.sidebar.selectbox('Select inward or outward',df['Direction Label'].unique())
