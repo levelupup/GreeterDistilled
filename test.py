@@ -7,19 +7,23 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout='wide')
 df = pd.read_csv('world_fdi.csv')
 
-economy = st.sidebar.multiselect('Select economies',df['Economy Label'].unique())
-mode = st.sidebar.multiselect('Select modes',df['Mode Label'].unique())
-direction = st.sidebar.multiselect('Select directions',df['Direction Label'].unique())
-year = st.sidebar.multiselect('Select years',df['Year'].unique())
+asia_countries = ['China','Korea, Republic of','Malaysia','Philippines','Singapore','Thailand','Viet Nam','India','Indonesia','China, Taiwan Province of']
+
+economy = st.sidebar.multiselect('Select economies',asia_countries)
+mode = st.sidebar.selectbox('Select flow or stock',df['Mode Label'].unique())
+direction = st.sidebar.selectbox('Select inward or outward',df['Direction Label'].unique())
+year_values = st.sidebar.slider('select years to watch',1970,2020,(2010,2020))
+
 item = st.selectbox('select items',['US dollars at current prices in millions',
                                      'US dollars at current prices per capita',	
                                      'Percentage of total world',
                                      'Percentage of Gross Domestic Product'])
 
-df = df[df['Economy Label'].eq(economy) & df['Mode Label'].eq(mode) & df['Direction Label'].eq(direction) & df['Year'].eq(year)]
-
-
+df = df[df['Year'].ge(year_values[0]) & df['Year'].le(year_values[1])]
+df = df[df['Economy Label'].isin(economy) & df['Mode Label'].eq(mode) & df['Direction Label'].eq(direction)]
+df = pd.pivot_table(df,index='Year',columns=['Economy Label'],values=item)
 fig, ax = plt.subplots()
-ax = sns.lineplot(data=df,x='Year',y=item)
-plt.xticks(rotation='vertical')
+
+for eco in economy:
+    plt.plot(df[eco])
 st.pyplot(fig)
