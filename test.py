@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-st.set_page_config(layout='wide')
+st.set_page_config(layout='centered')
 
 df = pd.read_csv('world_fdi.csv')
 df['Economy Label'] = df['Economy Label'].replace({'Korea, Republic of':'South Korea','China, Taiwan Province of':'Taiwan'})
