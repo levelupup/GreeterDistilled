@@ -32,5 +32,8 @@ st.header(item)
 for eco in economy:
     plt.plot(df[eco])
 plt.legend(economy,edgecolor='white')
+plt.ticklabel_format(style='plain')
+current_values = plt.gca().get_yticks()
+plt.gca().set_yticklabels(['{:,.0f}'.format(x) for x in current_values])
 st.pyplot(fig)
 st.subheader('source: UNCTAD')
