@@ -31,5 +31,5 @@ st.title('World FDI Watch')
 st.header(item)
 for eco in economy:
     plt.plot(df[eco])
-plt.legend(economy,edgecolor='black')
+plt.legend(economy,edgecolor='white')
 st.pyplot(fig)
