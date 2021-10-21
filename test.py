@@ -9,7 +9,7 @@ st.set_page_config(layout='wide')
 df = pd.read_csv('world_fdi.csv')
 df['Economy Label'] = df['Economy Label'].replace({'Korea, Republic of':'South Korea','China, Taiwan Province of':'Taiwan'})
 
-asia_economies = ['China','Korea','Malaysia','Philippines',
+asia_economies = ['China','South Korea','Malaysia','Philippines',
                   'Singapore','Thailand','Viet Nam','India',
                   'Indonesia','Taiwan']
 economy = st.sidebar.multiselect('Select economies',asia_economies)
