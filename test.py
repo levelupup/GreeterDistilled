@@ -12,7 +12,7 @@ df['Economy Label'] = df['Economy Label'].replace({'Korea, Republic of':'South K
                                                    'Viet Nam':'Vietnam'})
 
 asia_economies = ['China','South Korea','Malaysia','Philippines',
-                  'Singapore','Thailand','Viet Nam','India',
+                  'Singapore','Thailand','Vietnam','India',
                   'Indonesia','Taiwan','Japan']
 
 economy = st.sidebar.multiselect('Select economies',asia_economies)
